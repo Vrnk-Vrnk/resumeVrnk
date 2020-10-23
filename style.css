@@ -1,0 +1,13 @@
+h1.name {
+    color: blue;
+}
+h3.exp {
+    font-style: oblique;
+}
+body {
+    text-align:  center;
+}
+p1.red {
+    color: red;
+    font-weight: bolder;
+}
